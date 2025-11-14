@@ -5,7 +5,7 @@
     <ul>
         <li class="p-4"><a href="/busqueda-reservas">Test 1</a></li>
         <li class="p-4"><a href="/calificaciones-resenas">Test 2</a></li>
-        <li class="p-4"><a href="/contratos-garantias">Contratos y Garantias</a></li>
+        <li class="p-4"><a href="/contratos-garantias">Test 3 Owner</a></li>
         <li class="p-4"><a href="/gestion-usuarios">Gestión de Usuarios</a></li>
         <li class="p-4"><a href="/pagos-digitales">Pagos Digitales</a></li>
         <li class="p-4"><a href="/publicacion-vehiculos">Publicación Vehículos</a></li>
