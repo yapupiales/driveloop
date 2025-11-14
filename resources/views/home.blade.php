@@ -3,7 +3,7 @@
         <h1 class="text-xl p-5 font-bold">Módulos</h1>
     </div>
     <ul>
-        <li class="p-4"><a href="/busqueda-reservas">Busqueda y Reserva</a></li>
+        <li class="p-4"><a href="/busqueda-reservas">Test 1</a></li>
         <li class="p-4"><a href="/calificaciones-resenas">Calificaciones y Reseñas</a></li>
         <li class="p-4"><a href="/contratos-garantias">Contratos y Garantias</a></li>
         <li class="p-4"><a href="/gestion-usuarios">Gestión de Usuarios</a></li>
